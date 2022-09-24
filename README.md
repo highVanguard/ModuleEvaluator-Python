@@ -1,5 +1,5 @@
 # ModuleEvaluator-Python
-Program that calculates a uiversity student's credit score and overall result 
+Program that calculates a university student's credit score and overall result 
 
     ############### HISTOGRAM ###############
 

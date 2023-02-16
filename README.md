@@ -39,7 +39,8 @@ To use this application, follow these steps:
 
 This application was built with the following technologies:
 
-- Python 3.x
+- Python 3.x <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
 
 
 ## 🤝 Contributing

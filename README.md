@@ -18,9 +18,12 @@ To run this application, you will need to have Python 3.x installed on your mach
 
 ### Installation
 
-1. Clone the repository to your local machine: git clone [https://github.com/mahdiuahmed/ModuleEvaluator-Python.git]
-2. Navigate to the project directory
-3. Run the application: university progression outcome calculator.py
+1. Clone the repository to your local machine:
+```
+git clone https://github.com/mahdiuahmed/ModuleEvaluator-Python.git
+```
+3. Navigate to the project directory
+4. Run the application: university progression outcome calculator.py
 
 
 ## 📝 Usage
